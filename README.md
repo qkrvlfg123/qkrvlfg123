@@ -14,4 +14,4 @@
 ## Skills
 - ML/데이터: Python · scikit-learn · PyTorch · Transformers · pandas/numpy · scipy/statsmodels · SHAP
 - 서비스: Flask · Streamlit · Next.js · Supabase · RAG
-- Bio: AlphaFold3 · Boltz-2 · PyMOL · RDKit(학습 예정)
+- Bio: AlphaFold3 · Boltz-2 · PyMOL
