@@ -10,6 +10,8 @@
 - [elderly-depression-screening](https://github.com/qkrvlfg123/elderly-depression-screening) — 텍스트 기반 노인 우울 선별 (KLUE-BERT/RoBERTa)
 - [keystroke-dynamics-parkinson-screening](https://github.com/qkrvlfg123/keystroke-dynamics-parkinson-screening) — 키스트로크 다이내믹스 기반 파킨슨 선별
 - [pillcheck](https://github.com/qkrvlfg123/pillcheck) — 식약처 DUR 기반 약물 상호작용 검증 서비스 (개인 풀스택 프로젝트)
+- [health-diet-recommendation-engine](https://github.com/qkrvlfg123/health-diet-recommendation-engine) — 질환·약물–식품 상호작용 규칙 기반 건강 메뉴 추천 엔진
+- [pillymon-ppg-server](https://github.com/qkrvlfg123/pillymon-ppg-server) — 스마트폰 카메라 PPG 기반 HRV·스트레스 판정 서버
 
 ## Skills
 - ML/데이터: Python · scikit-learn · PyTorch · Transformers · pandas/numpy · scipy/statsmodels · SHAP
