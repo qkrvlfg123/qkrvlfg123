@@ -22,9 +22,13 @@
 - [pillcheck](https://github.com/qkrvlfg123/pillcheck) — 여러 약을 함께 복용할 때의 위험을 확인하는 서비스 · 개인 풀스택 프로젝트
 - [pillymon-ppg-server](https://github.com/qkrvlfg123/pillymon-ppg-server) — 스마트폰 카메라 PPG 기반 HRV·스트레스 판정 서버 (실험 단계) · 팀 프로젝트
 
+**공간 데이터 · 데이터 파이프라인**
+- [marswalk-mars-eva-data](https://github.com/qkrvlfg123/marswalk-mars-eva-data) — 화성 Jezero EVA 생명점수 격자. 여러 기관의 공개 데이터(USGS 지질맵·CRISM 광물맵·CTX DEM·THEMIS 열관성·PhysioNet)를 같은 좌표계·격자로 수집·정제·정렬 · NASA Space Apps 2026(team-navis) 데이터 파트
+
 ## Skills
 - 오믹스: Snakemake · BWA-MEM2 · GATK · bcftools · SnpEff · Scanpy · Squidpy
 - 임상 데이터: SQL · DuckDB · OMOP-CDM · R (ACHILLES)
 - ML/데이터: Python · scikit-learn · PyTorch · Transformers · pandas/numpy · scipy · SHAP
 - 구조생물정보: AlphaFold3 · Boltz-2 · PyMOL
+- 공간 데이터: rasterio · shapely/pyogrio · GeoJSON · 래스터/벡터 정제
 - 서비스: Flask · Streamlit · Next.js · Supabase · RAG
