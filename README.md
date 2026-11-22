@@ -7,7 +7,7 @@
 
 ## Projects
 
-**오믹스 · 임상 데이터 분석**
+**구조생물정보 · 논문 기반 구현**
 - [AD-AlphaFold3-Reproduction](https://github.com/qkrvlfg123/AD-AlphaFold3-Reproduction) — AlphaFold3 논문(Yao et al. 2024) 재현, 음성 대조군·순열검정으로 미스센스 변이 감별력 검정, Boltz-2 교차검증
 
 **의료 ML**
@@ -17,7 +17,6 @@
 **규칙 엔진 · 서비스**
 - [health-diet-recommendation-engine](https://github.com/qkrvlfg123/health-diet-recommendation-engine) — 질환·약물–식품 상호작용 규칙 기반 건강 메뉴 추천 엔진. 규칙 63개를 문헌 60건으로 검토 · 팀 프로젝트, 데이터셋·규칙 로직 담당
 - [pillcheck](https://github.com/qkrvlfg123/pillcheck) — 여러 약을 함께 복용할 때의 위험을 확인하는 서비스 · 개인 풀스택 프로젝트
-- [pillymon-ppg-server](https://github.com/qkrvlfg123/pillymon-ppg-server) — 스마트폰 카메라 PPG 기반 HRV·스트레스 판정 서버 (실험 단계) · 팀 프로젝트
 
 **공간 데이터 · 데이터 파이프라인**
 - [marswalk-mars-eva-data](https://github.com/qkrvlfg123/marswalk-mars-eva-data) — 화성 Jezero EVA 생명점수 격자. 여러 기관의 공개 데이터(USGS 지질맵·CRISM 광물맵·CTX DEM·THEMIS 열관성·PhysioNet)를 같은 좌표계·격자로 수집·정제·정렬 · NASA Space Apps 2026(team-navis) 데이터 파트
