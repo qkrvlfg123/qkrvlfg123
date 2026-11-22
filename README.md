@@ -8,9 +8,6 @@
 ## Projects
 
 **오믹스 · 임상 데이터 분석**
-- [ngs-variant-calling-pipeline](https://github.com/qkrvlfg123/ngs-variant-calling-pipeline) — FASTQ부터 변이 주석까지의 germline 변이검출 파이프라인(Snakemake). GIAB HG001 정답 변이로 정확도 검증
-- [single-cell-spatial-transcriptomics](https://github.com/qkrvlfg123/single-cell-spatial-transcriptomics) — scRNA-seq(PBMC)와 Visium 공간전사체 분석: 세포타입 annotation, 공간 도메인, 공간 변이 유전자, deconvolution
-- [omop-cdm-cohort-analysis](https://github.com/qkrvlfg123/omop-cdm-cohort-analysis) — OMOP-CDM 합성 데이터에서 SQL로 NSAID 신규 사용자 코호트 구축·분석 (Eunomia, ACHILLES, DuckDB)
 - [AD-AlphaFold3-Reproduction](https://github.com/qkrvlfg123/AD-AlphaFold3-Reproduction) — AlphaFold3 논문(Yao et al. 2024) 재현, 음성 대조군·순열검정으로 미스센스 변이 감별력 검정, Boltz-2 교차검증
 
 **의료 ML**
