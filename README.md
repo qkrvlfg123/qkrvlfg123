@@ -11,6 +11,7 @@
 - [AD-AlphaFold3-Reproduction](https://github.com/qkrvlfg123/AD-AlphaFold3-Reproduction) — AlphaFold3 논문(Yao et al. 2024) 재현, 음성 대조군·순열검정으로 미스센스 변이 감별력 검정, Boltz-2 교차검증
 
 **의료 ML**
+- [carepong](https://github.com/qkrvlfg123/carepong) — 키보드·마우스 패턴과 손가락 PPG(HRV) 기반 업무 스트레스 감지 모델 (로지스틱 회귀, 개인화, 사람 단위 교차검증) · 팀 프로젝트, 데이터 분석·모델링 담당
 - [elderly-depression-screening](https://github.com/qkrvlfg123/elderly-depression-screening) — 구술 텍스트 기반 노인 우울 위험 선별 (KoBigBird·KLUE-BERT 앙상블) · 팀 프로젝트, 모델링 담당
 - [keystroke-dynamics-parkinson-screening](https://github.com/qkrvlfg123/keystroke-dynamics-parkinson-screening) — 키스트로크 다이내믹스 기반 파킨슨 선별 (로지스틱 회귀, SHAP) · 팀 프로젝트, 모델링 담당
 
